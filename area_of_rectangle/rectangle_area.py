@@ -1,4 +1,4 @@
-#program to print the area of the rectangle.
+#program to find the area of a rectangle.
 
 l = int(input("Enter the Length of a rectangle:"))
 b = int(input("Enter the Breadth of a rectangle:"))

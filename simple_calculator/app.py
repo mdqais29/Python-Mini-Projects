@@ -1,3 +1,6 @@
+# Simple Calculator
+# Created as a beginner Python practice project
+
 print("***Simple Calculator***")
 
 num1 = float(input("Enter the First Number:"))
